@@ -10,6 +10,6 @@ L'objectif étant que le client puisse avoir le choix entre au moins 2 formes, 2
 
 Références : 
 http://www.livres-science-fiction.com
-Typos : FUTURA
-        Raleway
-        Lato
+Typos : - FUTURA
+        - Raleway
+        - Lato
